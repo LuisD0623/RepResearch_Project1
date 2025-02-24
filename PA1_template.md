@@ -75,7 +75,7 @@ df %>%
 ## (`stat_bin()`).
 ```
 
-![](PA1_template_files/figure-html/hist-1.png)<!-- -->
+![](https://github.com/LuisD0623/RepResearch_Project1/blob/master/figure/fill_hist-1.png?raw=true)<!-- -->
 
 ### Mean and median number of steps taken each day
 
@@ -129,7 +129,7 @@ df %>%
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
 ```
 
-![](PA1_template_files/figure-html/time_series-1.png)<!-- -->
+![](https://github.com/LuisD0623/RepResearch_Project1/blob/master/figure/time_series-1.png?raw=true)<!-- -->
 
 ### The 5-minute interval that, on average, contains the maximum number of steps
 
@@ -203,7 +203,7 @@ fill_df %>%
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
 ```
 
-![](PA1_template_files/figure-html/fill_hist-1.png)<!-- -->
+![](https://github.com/LuisD0623/RepResearch_Project1/blob/master/figure/fill_hist-1.png?raw=true)<!-- -->
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
@@ -231,4 +231,4 @@ df %>%
         plot.subtitle = element_text(hjust = 0.5))
 ```
 
-![](PA1_template_files/figure-html/weekends-1.png)<!-- -->
+![](https://github.com/LuisD0623/RepResearch_Project1/blob/master/figure/weekends-1.png?raw=true)<!-- -->
